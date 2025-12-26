@@ -1,24 +1,24 @@
 # The WordPress repository for this project.
-[submodule "fobv-wordpress"]
+[submodule "fobv_wordpress"]
 	path = wordpress
-	url = git@github.com:varilink/fobv-wordpress.git
+	url = git@github.com:varilink/fobv_wordpress.git
 
 # The proxy tool from Varilink's "Tools - Proxy" repository.
-[submodule "tools-proxy"]
+[submodule "tools_proxy"]
 	path = tools/proxy
-	url = git@github.com:varilink/tools-proxy.git
+	url = git@github.com:varilink/tools_proxy.git
 
 # The WordPress tool from Varilink's "Tools - WordPress" repository.
-[submodule "tools-wordpress"]
+[submodule "tools_wordpress"]
 	path = tools/wordpress
-	url = git@github.com:varilink/tools-wordpress.git
+	url = git@github.com:varilink/tools_wordpress.git
 
 # The NPM tool from Varilink's "Tools - NPM" repository.
 [submodule "tools/npm"]
 	path = tools/npm
-	url = git@github.com:varilink/tools-npm.git
+	url = git@github.com:varilink/tools_npm.git
 
 # The GIMP tool from Varilink's "Tools - GIMP" repository.
 [submodule "tools/gimp"]
 	path = tools/gimp
-	url = git@github.com:varilink/tools-gimp.git
+	url = git@github.com:varilink/tools_gimp.git
